@@ -1,6 +1,3 @@
-I used go lang gin postman for trsting...buid backend  only for now...i would like to do web later
-Perfect, thanks for clarifying! Since your backend is built with Go (Gin framework) and you’ve tested it using Postman, here’s a tailored README draft that fits your current setup and future plans to add a web frontend later:
-
 TaskManagerAPI
 A lightweight and efficient Task Management REST API built with Go (Gin framework). This backend service provides endpoints to create, read, update, and delete tasks. It’s designed to be simple, scalable, and easy to extend with a future web frontend.
 
