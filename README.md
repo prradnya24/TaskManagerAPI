@@ -189,7 +189,7 @@ DELETE http://localhost:8080/tasks/1
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/prradnya24)
+- GitHub: [@prradnya24](https://github.com/prradnya24)
 
 ---
 
