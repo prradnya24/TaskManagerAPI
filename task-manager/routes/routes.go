@@ -13,6 +13,8 @@ func SetupRoutes(r *gin.Engine) {
 	r.GET("/tasks", controllers.GetTasks)
 
 	r.PUT("/tasks/:id", controllers.UpdateTask)
-	
+
 	r.DELETE("/tasks/:id", controllers.DeleteTask)
+
+	r.GET("/tasks/:id", controllers.GetTaskByID)
 }
